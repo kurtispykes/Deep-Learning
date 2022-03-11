@@ -39,3 +39,6 @@ git clone https://github.com/kurtispykes/Deep-Learning.git
 ### Regularization
 * [Dropout Regularization with Tensorflow Keras](https://heartbeat.comet.ml/dropout-regularization-with-tensorflow-keras-c484b7459cd6?source=your_stories_page----------------------------------------): [See Full Code](regulariztion/droupout.ipynb)
 * [Combating Overfitting in Deep Learning](https://towardsdatascience.com/combating-overfitting-in-deep-learning-efb0fdabfccc)
+
+### DLOps
+* [Make Tracking Your Experiments Easy](https://heartbeat.comet.ml/make-tracking-your-machine-learning-experiments-easy-afad9b9956a): [See Full Code](dlops/experiment_tracking_with_comet.ipynb)
