@@ -28,7 +28,7 @@ git clone https://github.com/kurtispykes/Deep-Learning.git
 * [7 Optimization methods used in Deep Learning](https://heartbeat.comet.ml/7-optimization-methods-used-in-deep-learning-dd0a57fe6b1)
 * [Weight Initialization in Deep Neural Networks](https://heartbeat.comet.ml/weight-initialization-in-deep-neural-networks-e7e0d526f900): [See Full Code](neural_networks/neural_network_initializations.ipynb)
 * [Improving the Accuracy of Your Neural Network](https://heartbeat.comet.ml/improving-the-accuracy-of-your-neural-network-eab6a132eb46?source=your_stories_page----------------------------------------): [See Full Code](neural_networks/improving_the_accuracy_of_your_NN.ipynb)
-* [Activation Functions in Neural Networks](https://heartbeat.comet.ml/activation-functions-in-neural-networks-f23bbc57d2ca?source=your_stories_page----------------------------------------)
+* [Activation Functions in Neural Networks](https://heartbeat.comet.ml/activation-functions-in-neural-networks-f23bbc57d2ca?source=your_stories_page----------------------------------------): [See Full Code](neural_netowrks/activation_functions.ipynb)
 * [The Vanishing/Exploding Gradient Problem in Deep Neural Networks](https://towardsdatascience.com/the-vanishing-exploding-gradient-problem-in-deep-neural-networks-191358470c11)
 * [Varying Data To Build A Powerful Ensemble of Neural Netowrks](https://medium.com/pykes-technical-notes/varying-data-to-build-a-powerful-ensemble-of-neural-networks-1194ed602e04): [See Full Code](neural_networks/ensembling_methods.ipynb)
 * [Defining the Cost Function For Your Deep Neural Network](https://medium.com/pykes-technical-notes/defining-the-cost-function-for-your-deep-neural-network-d84e8f376895?source=your_stories_page----------------------------------------)
